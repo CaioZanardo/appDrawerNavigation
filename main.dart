@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
               accountEmail: Text('rm95125@fiap.com.br'),
               currentAccountPicture: CircleAvatar(
                 backgroundImage: AssetImage(
-                    'assets/images/Foto_3x4.jpeg'), // Substitua pelo caminho da sua imagem
+                    'assets/images/Foto_3x4.jpeg'), 
               ),
               decoration: BoxDecoration(
                 color: Colors.blue,
